@@ -8,4 +8,4 @@ files:
   - test
 url: https://github.com/fedepell/esp-flatcc
 version: 0.6.1
-
+license: Apache-2.0
