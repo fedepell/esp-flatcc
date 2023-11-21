@@ -1,0 +1,11 @@
+dependencies:
+  idf:
+    version: '>=5.0'
+description: FlatBuffers Compiler and Library in C for C
+files:
+  exclude:
+  - test/**/*
+  - test
+url: https://github.com/dvidelabs/flatcc
+version: 0.6.1
+
