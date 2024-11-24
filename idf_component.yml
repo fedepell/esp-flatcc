@@ -4,6 +4,8 @@ dependencies:
 description: FlatBuffers Compiler and Library in C for C
 files:
   exclude:
+  - docs/**/*
+  - docs
   - test/**/*
   - test
 url: https://github.com/fedepell/esp-flatcc
